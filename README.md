@@ -1,7 +1,6 @@
 # Keaktifan
 Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk dipantau bersama.
 
-|----|---------------|------------------------------|----------|----------|---------------|
 | No | NRP           | Nama                         | Bertanya | Menjawab | Maju ke Depan |
 |----|---------------|------------------------------|----------|----------|---------------|
 | 1  | 5111440000168 | ALDHIA MUAFA                 |          |          |               |
@@ -13,7 +12,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 7  | 5111640000032 | IRMAN KURNIAWAN              |          |          |               |
 | 8  | 5111640000033 | FERDINAND JASON GONDOWIJOYO  |          |          |               |
 | 9  | 5111640000045 | ALCREDO SIMANJUNTAK          |          |          |               |
-| 10 | 5111640000046 | MARDE FASMA UL`AZA           |          |          |               |
+| 10 | 5111640000046 | MARDE FASMA UL'AZA           |          |          |               |
 | 11 | 5111640000052 | YOLANDA HERTITA PRATAMA      |          |          |               |
 | 12 | 5111640000054 | RAHANDI NOOR PASHA           |          |          |               |
 | 13 | 5111640000057 | GHIFAROZA RAHMADIANA         |          |          |               |
@@ -35,4 +34,3 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 29 | 5111640000129 | FRANDITA ADHITAMA            |          |          |               |
 | 30 | 5111640000138 | AYAS FAIKAR NAFIS            |          |          |               |
 | 31 | 5111640000185 | NABIL HAIDARRAHMAN PRIBADI   |          |          |               |
-|----|---------------|------------------------------|----------|----------|---------------|
