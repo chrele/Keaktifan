@@ -30,7 +30,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 25 | 5111640000115 | DEWI AYU NIRMALASARI         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 26 | 5111640000118 | RIMBA AZHARA                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 27 | 5111640000120 | FAIZAL KHIILMI MUZAKKI       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 28 | 5111640000126 | FADLI WILDAN FIRJATULLAH     |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
+| 28 | 5111640000126 | FADLI WILDAN FIRJATULLAH     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 29 | 5111640000129 | FRANDITA ADHITAMA            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 30 | 5111640000138 | AYAS FAIKAR NAFIS            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 31 | 5111640000185 | NABIL HAIDARRAHMAN PRIBADI   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
