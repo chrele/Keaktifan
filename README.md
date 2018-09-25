@@ -19,7 +19,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 14 | 5111640000068 | BAGUS AJI SINTO SUSILO       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 15 | 5111640000071 | GANENDRA AFRASYA SALSABILLA  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 16 | 5111640000072 | M. HAZDI KURNIAWAN           |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
-| 17 | 5111640000073 | ALFIAN                       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 17 | 5111640000073 | ALFIAN                       |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
 | 18 | 5111640000092 | NURLITA DHUHA FATMAWATI      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 19 | 5111640000096 | JASON WILYANDI               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 20 | 5111640000097 | MICHAEL JULIAN ALBERTUS      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
