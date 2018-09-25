@@ -17,7 +17,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 12 | 5111640000054 | RAHANDI NOOR PASHA           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 13 | 5111640000057 | GHIFAROZA RAHMADIANA         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 14 | 5111640000068 | BAGUS AJI SINTO SUSILO       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 15 | 5111640000071 | GANENDRA AFRASYA SALSABILLA  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 15 | 5111640000071 | GANENDRA AFRASYA SALSABILLA  |   |   |   |   | 1 |   |   |   |   |    |    |    |    |    |    |    |
 | 16 | 5111640000072 | M. HAZDI KURNIAWAN           |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
 | 17 | 5111640000073 | ALFIAN                       |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
 | 18 | 5111640000092 | NURLITA DHUHA FATMAWATI      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
