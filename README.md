@@ -5,7 +5,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 |----|---------------|------------------------------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
 | 1  | 5111440000168 | ALDHIA MUAFA                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 2  | 5111640000006 | RAHADIAN KOESDIJARTO PUTRA   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 3  | 5111640000011 | DANDY NAUFALDI               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 3  | 5111640000011 | DANDY NAUFALDI               |   |   |   |   |   | 1 |   |   |   |    |    |    |    |    |    |    |
 | 4  | 5111640000014 | NUZHA MUSYAFIRA              |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 5  | 5111640000022 | YOSHIMA SYACH PUTRI          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 6  | 5111640000023 | ALDINATA RIZKY REVANDA       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
