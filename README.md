@@ -24,7 +24,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 19 | 5111640000096 | JASON WILYANDI               |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
 | 20 | 5111640000097 | MICHAEL JULIAN ALBERTUS      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 21 | 5111640000099 | DENNY RENGGANIS              |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
-| 22 | 5111640000105 | JONATHAN REHUEL LEWERISSA    |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 22 | 5111640000105 | JONATHAN REHUEL LEWERISSA    |   |   |   |   |   |   |   |   |   |    |    |    | 1  |    |    |    |
 | 23 | 5111640000106 | AZKIATUNNISA RAHMA FAJRIYATI |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 24 | 5111640000107 | CHRISTOPHER ANDREW           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 25 | 5111640000115 | DEWI AYU NIRMALASARI         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
