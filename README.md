@@ -8,7 +8,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 3  | 5111640000011 | DANDY NAUFALDI               |   |   |   |   |   | 1 |   |   |   |    |    |    |    |    |    |    |
 | 4  | 5111640000014 | NUZHA MUSYAFIRA              |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 5  | 5111640000022 | YOSHIMA SYACH PUTRI          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 6  | 5111640000023 | ALDINATA RIZKY REVANDA       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 6  | 5111640000023 | ALDINATA RIZKY REVANDA       |   |   |   |   |   |   |   |   |   |    |    |    |    |    | 1  |    |
 | 7  | 5111640000032 | IRMAN KURNIAWAN              |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
 | 8  | 5111640000033 | FERDINAND JASON GONDOWIJOYO  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 9  | 5111640000045 | ALCREDO SIMANJUNTAK          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
