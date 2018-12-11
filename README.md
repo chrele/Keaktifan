@@ -10,7 +10,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 5  | 5111640000022 | YOSHIMA SYACH PUTRI          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 6  | 5111640000023 | ALDINATA RIZKY REVANDA       |   |   |   |   |   |   |   |   |   |    |    |    |    |    | 1  |    |
 | 7  | 5111640000032 | IRMAN KURNIAWAN              |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
-| 8  | 5111640000033 | FERDINAND JASON GONDOWIJOYO  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 8  | 5111640000033 | FERDINAND JASON GONDOWIJOYO  |   |   |   |   |   |   | 1 |   |   |    |    |    |    |    |    |    |
 | 9  | 5111640000045 | ALCREDO SIMANJUNTAK          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 10 | 5111640000046 | MARDE FASMA UL'AZA           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 11 | 5111640000052 | YOLANDA HERTITA PRATAMA      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
