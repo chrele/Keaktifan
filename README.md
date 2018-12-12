@@ -26,7 +26,7 @@ Rekaman keaktifan mahasiswa di kelas: bertanya, menjawab, maju ke depan; untuk d
 | 21 | 5111640000099 | DENNY RENGGANIS              |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
 | 22 | 5111640000105 | JONATHAN REHUEL LEWERISSA    |   |   |   |   |   |   |   |   |   |    |    |    | 1  |    |    |    |
 | 23 | 5111640000106 | AZKIATUNNISA RAHMA FAJRIYATI |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 24 | 5111640000107 | CHRISTOPHER ANDREW           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 24 | 5111640000107 | CHRISTOPHER ANDREW           |   |   |   |   |   |   |   |   |   |  1 |    |    |    |    |    |    |
 | 25 | 5111640000115 | DEWI AYU NIRMALASARI         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 26 | 5111640000118 | RIMBA AZHARA                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 27 | 5111640000120 | FAIZAL KHIILMI MUZAKKI       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
